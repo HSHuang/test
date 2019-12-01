@@ -13,6 +13,6 @@ getwd()
 dir_path="d:/workspace/programming/mygit01"
 setwd(dir_path)
 getwd()
-
-
+print("Hello ! git 大")
+print("safdsa dsf sdfdsa")
 
